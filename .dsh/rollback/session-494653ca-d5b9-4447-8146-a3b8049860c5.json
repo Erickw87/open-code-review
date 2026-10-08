@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "sessionId": "session-494653ca-d5b9-4447-8146-a3b8049860c5",
+  "cwd": "c:\\Users\\Admin\\.codex\\projects\\feishu-ai-assistant\\3rd\\open-code-review",
+  "updatedAt": 1790564303028,
+  "checkpoints": [
+    {
+      "turn": 1,
+      "commit": "04a885f3dba8f002e44ff30592650655f9aeeeea",
+      "parent": "a290633d6858d4f235bfd0704c24744ad404f6ee",
+      "time": 1790563999607,
+      "untracked": [
+        "docs/DEPLOYMENT.zh-CN.md"
+      ],
+      "truncated": false,
+      "after": {
+        "commit": "5f36713f894774dcbbe3f04eaea31251becc49c9",
+        "time": 1790564073632
+      }
+    },
+    {
+      "turn": 2,
+      "commit": "5f36713f894774dcbbe3f04eaea31251becc49c9",
+      "parent": "5f36713f894774dcbbe3f04eaea31251becc49c9",
+      "time": 1790564206440,
+      "untracked": [
+        "docs/DEPLOYMENT.zh-CN.md",
+        "skills/open-code-review/SKILL.md.bak"
+      ],
+      "truncated": false,
+      "after": {
+        "commit": "2716885cce32cc69578dc95ee96e6d3742aec07d",
+        "time": 1790564302573
+      }
+    }
+  ],
+  "rolls": [],
+  "undos": []
+}
